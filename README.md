@@ -1,0 +1,4 @@
+- 👋 Eaee, sou o cauã, prazer
+- 👀 gosto de programação front-end 
+- 🌱 estou aprendendo Javascript e os fundamentos de desenvolvimento web, depois vou aprender as tecnologias Next, React, React Native e Node para melhorar
+- Me manda uma msg no Linkedin lá Cauã Sampaio
