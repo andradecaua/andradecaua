@@ -1,4 +1,6 @@
-- 👋 Eaee, sou o cauã, prazer
-- 👀 gosto de programação front-end 
-- 🌱 estou aprendendo Javascript e os fundamentos de desenvolvimento web, depois vou aprender as tecnologias Next, React, React Native e Node para melhorar
-- Me manda uma msg no Linkedin lá Cauã Sampaio
+# SEJA BEM VINDO AO MEU REPOSITORIO
+
+**Se não me conhece, sou o Cauã**
+- Nas minhas principais stacks atualmente estão React, React Native & Node
+- Com futuro interesse estou olhando para Java
+- Sinta-se a vontade para olhar as minhas gambiarras cof melhor dizendo meus codigos
