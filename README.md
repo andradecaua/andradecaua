@@ -1,5 +1,16 @@
-# SEJA BEM VINDO AO MEU REPOSITORIO
+# Sobre
 
-**Se não me conhece, sou o Cauã**
-- Nas minhas principais stacks atualmente estão React, Node & Java
-- Sinta-se a vontade para olhar as minhas gambiarras cof melhor dizendo meus codigos
+Meu nome é Cauã, tenho 19 anos, estudo programação desde dos 16 anos de idade.
+Sou apaixonado por tecnologia e por desenvolver sistemas
+
+## Tecnologias 
+- JavaScript
+- Java
+- ReactJS
+- React Native
+- Node JS
+- ExpressJS
+- Sass
+- PostgresSQL
+- Firebase
+- Redux
