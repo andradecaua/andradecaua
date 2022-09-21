@@ -19,9 +19,8 @@ Sou apaixonado por tecnologia e por desenvolver sistemas :coffee:
     <img align="center" alt="javascript" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
     <img align="center" alt="javascript" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
     <img align="center" alt="javascript" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
+    <img align="center" alt="javascript" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+    <img align="center" alt="javascript" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">
+    <img align="center" alt="javascript" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
 </div>
-  
-- Sass
-- PostgresSQL
-- Firebase
-- Redux
+
