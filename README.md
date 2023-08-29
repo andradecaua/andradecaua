@@ -4,6 +4,13 @@ Meu nome é Cauã, tenho 19 anos, estudo programação desde dos 16 anos de idad
 Sou apaixonado por tecnologia e por desenvolver sistemas :coffee: 
 
 
+
+### Conecte-se comigo
+[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/cauaandrade/)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:cauasampaiovolei@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=fff)](https://www.github.com/andradecaua/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/cauaandrade/)
+
 <div align="center">
   <a href="https://github.com/andradecaua">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andradecaua&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
