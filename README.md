@@ -10,7 +10,7 @@ Sou apaixonado por tecnologia e por desenvolver sistemas :coffee:
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:cauasampaiovolei@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=fff)](https://www.github.com/andradecaua/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/cauaandrade/)
-
+[![MEU PORTIFOLIO](https://img.shields.io/badge/-Meu_Portifolio-000?style=for-the-badge)](https://cauaandrade-portifolio.web.app/)
 
 
 ### Habilidades
@@ -23,7 +23,7 @@ Sou apaixonado por tecnologia e por desenvolver sistemas :coffee:
 ![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=E94D5F)
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
-[![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
 
 
 <div align="center">
