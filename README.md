@@ -23,7 +23,6 @@ Sou apaixonado por tecnologia e por desenvolver sistemas :coffee:
 ![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=E94D5F)
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
-![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
 
 
 <div align="center">
