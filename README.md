@@ -22,10 +22,3 @@ Meu nome é Cauã sou apaixonado por tecnologia e por resolver problemas :coffee
 ![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=E94D5F)
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
-
-
-<div align="center">
-  <a href="https://github.com/andradecaua">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andradecaua&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andradecaua&layout=compact&langs_count=7&theme=dracula"/>
-</div>
