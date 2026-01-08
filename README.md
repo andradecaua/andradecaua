@@ -1,13 +1,12 @@
 
 ## Sobre
-Meu nome é Cauã, tenho 19 anos, estudo programação desde dos 16 anos de idade.
-Sou apaixonado por tecnologia e por desenvolver sistemas :coffee: 
+Meu nome é Cauã sou apaixonado por tecnologia e por resolver problemas :coffee: 
 
 
 
 ### Conecte-se comigo
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/cauaandrade/)
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:cauasampaiovolei@gmail.com)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:devcaua.andrade@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=fff)](https://www.github.com/andradecaua/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/cauaandrade/)
 [![MEU PORTIFOLIO](https://img.shields.io/badge/-Meu_Portifolio-000?style=for-the-badge)](https://cauaandrade-portifolio.web.app/)
